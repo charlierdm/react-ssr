@@ -1,3 +1,3 @@
 # react-ssr
 
-a simple project to learn about server side rendering using react.
+a simple project to demonstrate server side rendering in react.
